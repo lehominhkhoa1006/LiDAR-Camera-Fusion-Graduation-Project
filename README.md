@@ -65,7 +65,7 @@ The visualization application is developed with PyQt5 and Open3D, providing sync
 ## Results
 
 The distance-based analysis was performed on 29,975 predicted objects across 162 samples.
-```md
+
 ### Detection Performance
 
 | Metric | nuScenes Full | nuScenes Mini |
@@ -77,7 +77,7 @@ The distance-based analysis was performed on 29,975 predicted objects across 162
 | mAOE | 0.30 | 0.21 |
 | mAVE | 0.27 | 0.36 |
 | mAAE | 0.11 | 0.33 |
-```
+
 ### Distance Distribution
 
 | Distance Group | Predictions |
