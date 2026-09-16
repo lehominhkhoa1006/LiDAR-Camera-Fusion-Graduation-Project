@@ -81,6 +81,10 @@ The average predicted object distance was **26.51 m**, with a standard deviation
 
 ![Distance Statistics](output/visualizations/distance_statistics_combined.png)
 
+### Prediction Class Distribution
+
+![Prediction Class Distribution](output/visualizations/class_distribution.png)
+
 ## Visualization
 
 ## Limitations
