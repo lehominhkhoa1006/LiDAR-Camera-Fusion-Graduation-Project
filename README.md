@@ -62,6 +62,16 @@ The system is implemented in Python and built around the MMDetection3D framework
 
 The visualization application is developed with PyQt5 and Open3D, providing synchronized views of camera images and 3D LiDAR point clouds. OpenCV and NumPy are used for image processing and numerical operations.
 
+## Results
+
+## Visualization
+
+## Limitations
+
+## Future Development
+
+## Project Structure
+
 ## Requirements
 
 The project was developed and tested with the following environment:
@@ -75,18 +85,22 @@ The project was developed and tested with the following environment:
 | NumPy | 1.23.0 |
 | Framework | MMDetection3D |
 
-## Results
-
-## Visualization
-
-## Limitations
-
-## Future Development
-
-## Project Structure
-
-## Requirements
-
 ## Usage
+
+### 1. Prepare the environment
+
+Install the required Python packages and configure the MMDetection3D environment according to the project setup.
+
+### 2. Prepare the dataset
+
+Place the required nuScenes data and project inputs in the appropriate directories.
+
+### 3. Run the detection pipeline
+
+Run the corresponding Python script from the `src` directory to preprocess the data, perform MEFormer inference, and generate the prediction outputs.
+
+### 4. Run the visualization application
+
+Launch the visualization module to inspect camera images, LiDAR point clouds, 3D bounding boxes, and evaluation results.
 
 ## Thesis
