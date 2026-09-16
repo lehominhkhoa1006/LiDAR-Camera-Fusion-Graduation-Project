@@ -65,7 +65,19 @@ The visualization application is developed with PyQt5 and Open3D, providing sync
 ## Results
 
 The distance-based analysis was performed on 29,975 predicted objects across 162 samples.
+```md
+### Detection Performance
 
+| Metric | nuScenes Full | nuScenes Mini |
+|---|---:|---:|
+| NDS | 0.74 | 0.72 |
+| mAP | 0.72 | 0.72 |
+| mATE | 0.27 | 0.27 |
+| mASE | 0.24 | 0.31 |
+| mAOE | 0.30 | 0.21 |
+| mAVE | 0.27 | 0.36 |
+| mAAE | 0.11 | 0.33 |
+```
 ### Distance Distribution
 
 | Distance Group | Predictions |
@@ -136,15 +148,15 @@ Install the required Python packages and configure the MMDetection3D environment
 
 ### 2. Prepare the dataset
 
-Place the required nuScenes data and project inputs in the appropriate directories.
+Obtain the required nuScenes dataset and place the necessary files according to the structure described in [`input/README.md`](./input/README.md).
 
-### 3. Run the detection pipeline
+### 3. Analyze detection results
 
-Run the corresponding Python script from the `src` directory to preprocess the data, perform MEFormer inference, and generate the prediction outputs.
+Run the analysis script from the project root:
 
-### 4. Run the visualization application
-
-Launch the visualization module to inspect camera images, LiDAR point clouds, 3D bounding boxes, and evaluation results.
+```bash
+python src/analyze_distance_performance.py
+```
 
 ## Project Structure
 
