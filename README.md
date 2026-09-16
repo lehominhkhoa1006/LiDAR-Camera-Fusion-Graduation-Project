@@ -6,6 +6,7 @@ Short Overview
 ## Objectives
 
 ## System Pipeline
+![System Pipeline](docs/pipeline.png)
 
 ## Methodology
 
