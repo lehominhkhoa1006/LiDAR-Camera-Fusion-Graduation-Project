@@ -62,6 +62,19 @@ The system is implemented in Python and built around the MMDetection3D framework
 
 The visualization application is developed with PyQt5 and Open3D, providing synchronized views of camera images and 3D LiDAR point clouds. OpenCV and NumPy are used for image processing and numerical operations.
 
+## Requirements
+
+The project was developed and tested with the following environment:
+
+| Component | Version / Configuration |
+|---|---|
+| Python | 3.8 |
+| PyQt5 | 5.15.0 |
+| Open3D | 0.17.0 |
+| OpenCV | 4.7.0 |
+| NumPy | 1.23.0 |
+| Framework | MMDetection3D |
+
 ## Results
 
 ## Visualization
