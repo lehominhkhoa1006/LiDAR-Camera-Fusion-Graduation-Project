@@ -87,6 +87,28 @@ The average predicted object distance was **26.51 m**, with a standard deviation
 
 ## Visualization
 
+The project provides visual analysis of multimodal 3D detection results from both camera images and LiDAR point clouds.
+
+### Prediction Class Distribution
+
+![Prediction Class Distribution](output/visualizations/class_distribution.png)
+
+### Distance-based Analysis
+
+![Distance Statistics](output/visualizations/distance_statistics_combined.png)
+
+The analysis further examines prediction performance across different object-distance ranges, including prediction counts, confidence scores, score variation, and confidence thresholds.
+
+### Distance Group Analysis
+
+![Prediction Count by Distance](output/visualizations/distance_statistics_count.png)
+
+![Average and Median Scores](output/visualizations/distance_statistics_scores.png)
+
+![Score Standard Deviation](output/visualizations/distance_statistics_std.png)
+
+![Confidence Thresholds](output/visualizations/distance_statistics_thresholds.png)
+
 ## Limitations
 
 ## Future Development
