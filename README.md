@@ -103,6 +103,11 @@ The analysis further examines prediction performance across different object-dis
 
 ## Limitations
 
+- The project relies on the computational resources available during development, which limits large-scale experimentation.
+- Detection performance can decrease for small, distant, or partially occluded objects.
+- Multimodal performance depends on accurate sensor calibration and data synchronization.
+- The current implementation focuses on camera-LiDAR fusion and does not fully integrate additional sensors such as radar or GPS into the detection pipeline.
+
 ## Future Development
 
 ## Project Structure
