@@ -110,6 +110,11 @@ The analysis further examines prediction performance across different object-dis
 
 ## Future Development
 
+- Collect and evaluate real-world camera and LiDAR data for deployment-oriented testing.
+- Improve robustness for small, distant, and difficult-to-detect objects through targeted data augmentation.
+- Explore application-specific confidence and distance thresholds for traffic-scene analysis.
+- Extend the system toward broader multimodal sensing and real-time deployment on vehicle platforms.
+
 ## Project Structure
 
 ## Requirements
