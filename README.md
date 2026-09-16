@@ -115,39 +115,6 @@ The analysis further examines prediction performance across different object-dis
 - Explore application-specific confidence and distance thresholds for traffic-scene analysis.
 - Extend the system toward broader multimodal sensing and real-time deployment on vehicle platforms.
 
-## Project Structure
-
-LiDAR-Camera-Fusion-Graduation-Project/
-│
-├── docs/
-│   └── pipeline.png
-│
-├── input/
-│   └── README.md
-│
-├── output/
-│   ├── results_nusc.json
-│   ├── distance_statistics.csv
-│   ├── class_distribution.csv
-│   └── visualizations/
-│       ├── class_distribution.png
-│       ├── distance_statistics_combined.png
-│       ├── distance_statistics_count.png
-│       ├── distance_statistics_scores.png
-│       ├── distance_statistics_std.png
-│       └── distance_statistics_thresholds.png
-│
-├── report/
-│   ├── Graduation_Thesis.pdf
-│   ├── Presentation.pdf
-│   └── README.md
-│
-├── src/
-│   └── analyze_distance_performance.py
-│
-├── LICENSE
-└── README.md
-
 ## Requirements
 
 The project was developed and tested with the following environment:
@@ -178,5 +145,40 @@ Run the corresponding Python script from the `src` directory to preprocess the d
 ### 4. Run the visualization application
 
 Launch the visualization module to inspect camera images, LiDAR point clouds, 3D bounding boxes, and evaluation results.
+
+## Project Structure
+
+```text
+LiDAR-Camera-Fusion-Graduation-Project/
+│
+├── docs/
+│   └── pipeline.png
+│
+├── input/
+│   └── README.md
+│
+├── output/
+│   ├── results_nusc.json
+│   ├── distance_statistics.csv
+│   ├── class_distribution.csv
+│   └── visualizations/
+│       ├── class_distribution.png
+│       ├── distance_statistics_combined.png
+│       ├── distance_statistics_count.png
+│       ├── distance_statistics_scores.png
+│       ├── distance_statistics_std.png
+│       └── distance_statistics_thresholds.png
+│
+├── report/
+│   ├── Graduation_Thesis.pdf
+│   ├── Presentation.pdf
+│   └── README.md
+│
+├── src/
+│   └── analyze_distance_performance.py
+│
+├── LICENSE
+└── README.md
+```md
 
 ## Thesis
