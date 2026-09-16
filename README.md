@@ -6,7 +6,7 @@ Short Overview
 ## Objectives
 
 ## System Pipeline
-<img src="docs/pipeline.png" alt="System Pipeline" width="500">
+<img src="docs/pipeline.png" alt="System Pipeline" width="400">
 
 ## Methodology
 
