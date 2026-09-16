@@ -30,6 +30,28 @@ A Python-based visualization application was developed to inspect the detection 
 
 ## Dataset
 
+The project uses the **nuScenes dataset** as the benchmark for multimodal 3D object detection. For the experimental evaluation, the **nuScenes mini** dataset was used as a compact subset suitable for research under limited computational resources.
+
+| Item | Details |
+|---|---|
+| Dataset | nuScenes mini |
+| Scenes | 10 |
+| Camera | 6 views |
+| LiDAR | 1 sensor |
+| Radar | 5 sensors |
+| Task | Multimodal 3D object detection |
+| Model | MEFormer |
+| Framework | MMDetection3D |
+
+For the experimental evaluation, four scenes were selected:
+
+- Scene 0103
+- Scene 0916
+- Scene 0796
+- Scene 0553
+
+The project focuses on **camera and LiDAR data** for multimodal 3D object detection, while the additional sensor information available in nuScenes provides broader dataset context.
+
 ## Implementation
 
 ## Results
