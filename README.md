@@ -1,9 +1,16 @@
-# Project Title
+# Development of a Multimodal 3D Object Recognition and Visualization System for Traffic Environments Using Camera-LiDAR Fusion
+
 
 Short Overview
 
 ## Overview
+This project develops a multimodal 3D object recognition and visualization system for traffic environments using camera and LiDAR data. The system integrates the MEFormer model within the MMDetection3D framework to perform 3D object detection on the nuScenes dataset and provides visualization tools for analyzing detection results from both 2D camera images and 3D LiDAR point clouds.
+
 ## Objectives
+- Develop a pipeline for multimodal 3D object detection using camera and LiDAR data.
+- Integrate and evaluate the MEFormer model within the MMDetection3D framework.
+- Process and evaluate detection results using the nuScenes dataset and standard 3D detection metrics.
+- Develop a visualization application for inspecting camera images, LiDAR point clouds, and 3D bounding boxes.
 
 ## System Pipeline
 <img src="docs/pipeline.png" alt="System Pipeline" width="400">
