@@ -150,13 +150,10 @@ Launch the visualization module to inspect camera images, LiDAR point clouds, 3D
 
 ```text
 LiDAR-Camera-Fusion-Graduation-Project/
-│
 ├── docs/
 │   └── pipeline.png
-│
 ├── input/
 │   └── README.md
-│
 ├── output/
 │   ├── results_nusc.json
 │   ├── distance_statistics.csv
@@ -168,17 +165,17 @@ LiDAR-Camera-Fusion-Graduation-Project/
 │       ├── distance_statistics_scores.png
 │       ├── distance_statistics_std.png
 │       └── distance_statistics_thresholds.png
-│
 ├── report/
 │   ├── Graduation_Thesis.pdf
 │   ├── Presentation.pdf
 │   └── README.md
-│
 ├── src/
 │   └── analyze_distance_performance.py
-│
 ├── LICENSE
 └── README.md
-```md
-
+```
 ## Thesis
+The complete graduation thesis and project presentation are available in the [`report`](./report) directory.
+
+- [Graduation Thesis](./report/Graduation_Thesis.pdf)
+- [Project Presentation](./report/Presentation.pdf)
