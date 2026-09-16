@@ -142,20 +142,12 @@ The project was developed and tested with the following environment:
 
 ## Usage
 
-### 1. Prepare the environment
+The repository includes a Python script for post-processing and analyzing nuScenes detection results.
 
-Install the required Python packages and configure the MMDetection3D environment according to the project setup.
-
-### 2. Prepare the dataset
-
-Obtain the required nuScenes dataset and place the necessary files according to the structure described in [`input/README.md`](./input/README.md).
-
-### 3. Analyze detection results
-
-Run the analysis script from the project root:
+To reproduce the distance-based analysis, place the required nuScenes dataset and `results_nusc.json` in the same working directory as the analysis script, then run:
 
 ```bash
-python src/analyze_distance_performance.py
+python analyze_distance_performance.py
 ```
 
 ## Project Structure
