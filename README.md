@@ -64,6 +64,23 @@ The visualization application is developed with PyQt5 and Open3D, providing sync
 
 ## Results
 
+The distance-based analysis was performed on 29,975 predicted objects across 162 samples.
+
+### Distance Distribution
+
+| Distance Group | Predictions |
+|---|---:|
+| 0–10 m | 2,694 |
+| 10–20 m | 6,737 |
+| 20–30 m | 8,896 |
+| 30–40 m | 7,284 |
+| 40–50 m | 4,237 |
+| >50 m | 127 |
+
+The average predicted object distance was **26.51 m**, with a standard deviation of **11.54 m**.
+
+![Distance Statistics](output/visualizations/distance_statistics_combined.png)
+
 ## Visualization
 
 ## Limitations
