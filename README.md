@@ -58,6 +58,10 @@ The project focuses on **camera and LiDAR data** for multimodal 3D object detect
 
 ## Implementation
 
+The system is implemented in Python and built around the MMDetection3D framework. The workflow covers dataset preparation, sensor-data preprocessing, MEFormer inference, result standardization, evaluation, and visualization.
+
+The visualization application is developed with PyQt5 and Open3D, providing synchronized views of camera images and 3D LiDAR point clouds. OpenCV and NumPy are used for image processing and numerical operations.
+
 ## Results
 
 ## Visualization
