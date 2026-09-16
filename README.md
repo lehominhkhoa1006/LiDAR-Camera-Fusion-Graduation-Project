@@ -1,2 +1,30 @@
-# LiDAR-Camera-Fusion-Graduation-Project
-Development of a Multimodal 3D Object Recognition and Visualization System for Traffic Environments Using Camera and LiDAR Fusion.
+# Project Title
+
+Short Overview
+
+## Overview
+## Objectives
+
+## System Pipeline
+
+## Methodology
+
+## Dataset
+
+## Implementation
+
+## Results
+
+## Visualization
+
+## Limitations
+
+## Future Development
+
+## Project Structure
+
+## Requirements
+
+## Usage
+
+## Thesis
