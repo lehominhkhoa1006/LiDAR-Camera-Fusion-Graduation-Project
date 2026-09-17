@@ -171,12 +171,17 @@ python analyze_distance_performance.py
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 LiDAR-Camera-Fusion-Graduation-Project/
 ├── docs/
 │   └── pipeline.png
 ├── input/
 │   └── README.md
+├── media/
+│   ├── LiDAR-Camera-Fusion-Thesis-Demonstration.gif
+│   └── LiDAR-Camera-Fusion-Thesis-Demonstration.mp4 
 ├── output/
 │   ├── results_nusc.json
 │   ├── distance_statistics.csv
