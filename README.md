@@ -103,10 +103,6 @@ A demonstration of the developed thesis system during operation is provided belo
        width="400">
 </p>
 
-<p align="center">
-  <em>Figure X. Thesis prototype demonstration showing the developed multimodal 3D detection and visualization system.</em>
-</p>
-
 ### Demonstration Videos
 
 - [Full Thesis Demonstration (MP4)](./media/LiDAR-Camera-Fusion-Thesis-Demonstration.mp4)
