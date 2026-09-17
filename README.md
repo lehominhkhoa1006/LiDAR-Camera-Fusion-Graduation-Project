@@ -100,7 +100,7 @@ A demonstration of the developed thesis system during operation is provided belo
 <p align="center">
   <img src="media/LiDAR-Camera-Fusion-Thesis-Demonstration.gif"
        alt="LiDAR-Camera Fusion Thesis Demonstration"
-       width="400">
+       width="700">
 </p>
 
 ### Demonstration Video
