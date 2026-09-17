@@ -166,8 +166,6 @@ python analyze_distance_performance.py
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 LiDAR-Camera-Fusion-Graduation-Project/
 ├── docs/
@@ -198,14 +196,20 @@ LiDAR-Camera-Fusion-Graduation-Project/
 └── README.md
 ```
 
+## Thesis
+The complete graduation thesis and project presentation are available in the [`report`](./report) directory.
+
+- [Graduation Thesis](./report/Graduation_Thesis.pdf)
+- [Project Presentation](./report/Presentation.pdf)
+
 ## Members
 
 - **Le Hoang Tien** — Student
 - **Le Ho Minh Khoa** — Student
 - **Tran Vo Hoang, Ph.D.** — Supervisor
 
-## Thesis
-The complete graduation thesis and project presentation are available in the [`report`](./report) directory.
+## License
 
-- [Graduation Thesis](./report/Graduation_Thesis.pdf)
-- [Project Presentation](./report/Presentation.pdf)
+This project was developed as an undergraduate graduation thesis at HCMUTE.
+The source code and project materials in this repository are provided for educational and portfolio purposes.
+
