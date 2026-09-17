@@ -197,6 +197,13 @@ LiDAR-Camera-Fusion-Graduation-Project/
 ├── LICENSE
 └── README.md
 ```
+
+## Members
+
+- **Le Hoang Tien** — Student
+- **Le Ho Minh Khoa** — Student
+- **Tran Vo Hoang, Ph.D.** — Supervisor
+
 ## Thesis
 The complete graduation thesis and project presentation are available in the [`report`](./report) directory.
 
