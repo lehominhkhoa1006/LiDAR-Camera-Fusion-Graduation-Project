@@ -93,6 +93,25 @@ The distance-based analysis was performed on 29,975 predicted objects across 162
 
 The project provides visual analysis of multimodal 3D detection results from both camera images and LiDAR point clouds.
 
+## Project Demonstration
+
+A demonstration of the developed thesis system during operation is provided below.
+
+<p align="center">
+  <img src="media/LiDAR-Camera-Fusion-Thesis-Demonstration.gif"
+       alt="LiDAR-Camera Fusion Thesis Demonstration"
+       width="400">
+</p>
+
+<p align="center">
+  <em>Figure X. Thesis prototype demonstration showing the developed multimodal 3D detection and visualization system.</em>
+</p>
+
+### Demonstration Videos
+
+- [Full Thesis Demonstration (MP4)](./media/LiDAR-Camera-Fusion-Thesis-Demonstration.mp4)
+- [Alternative Thesis Demonstration (MP4)](./media/LiDAR-Camera-Fusion-Thesis-Demonstration-2.mp4)
+
 ### Prediction Class Distribution
 
 ![Prediction Class Distribution](output/visualizations/class_distribution.png)
