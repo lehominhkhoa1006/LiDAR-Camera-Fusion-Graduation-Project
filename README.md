@@ -103,7 +103,7 @@ A demonstration of the developed thesis system during operation is provided belo
        width="400">
 </p>
 
-### Demonstration Videos
+### Demonstration Video
 
 - [Full Thesis Demonstration (MP4)](./media/LiDAR-Camera-Fusion-Thesis-Demonstration.mp4)
 
