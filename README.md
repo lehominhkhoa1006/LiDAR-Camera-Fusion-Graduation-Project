@@ -106,7 +106,6 @@ A demonstration of the developed thesis system during operation is provided belo
 ### Demonstration Videos
 
 - [Full Thesis Demonstration (MP4)](./media/LiDAR-Camera-Fusion-Thesis-Demonstration.mp4)
-- [Alternative Thesis Demonstration (MP4)](./media/LiDAR-Camera-Fusion-Thesis-Demonstration-2.mp4)
 
 ### Prediction Class Distribution
 
