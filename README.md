@@ -10,7 +10,9 @@ This project develops a multimodal 3D object recognition and visualization syste
 - Develop a visualization application for inspecting camera images, LiDAR point clouds, and 3D bounding boxes.
 
 ## System Pipeline
-<img src="docs/pipeline.png" alt="System Pipeline" width="400">
+<p align="center">
+  <img src="docs/pipeline.png" alt="System Pipeline" width="400">
+</p>
 
 ## Methodology
 
